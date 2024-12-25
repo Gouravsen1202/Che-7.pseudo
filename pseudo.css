@@ -1,0 +1,20 @@
+.butten{
+    height: 35px;
+    width: 150px;
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.butten:hover{
+    background-color: red;
+    height: 40px;
+    width: 170px;
+}
+
+
+.butten:active{
+    background-color: blue;
+    height: 40px;
+    width: 170px;
+}
